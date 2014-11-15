@@ -1,0 +1,5 @@
+# Instructions
+
+```
+./bin/sbt run
+```
